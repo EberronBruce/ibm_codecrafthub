@@ -1,5 +1,6 @@
-// README.md (basic content)
-/*
+This is from the IBM Generative AI course. This project was sololy created by using prompts in an LLM.
+
+
 # User Service
 
 Handles user registration, login, and profile management.
